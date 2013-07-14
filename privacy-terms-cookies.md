@@ -113,7 +113,7 @@ These terms shall be governed by and construed in accordance with the laws of th
 
 If you have any comments, questions, ideas, or criticism of this document you may contact us via e-mail at [support@ottawadogblog.ca](support@ottawadogblog.ca).
 
-Or better yet, you can contribute a “commit” on [GitHub]()!
+Or better yet, you can contribute a “commit” on [GitHub](https://github.com/ottawadogblog/legal)!
 
 ---
 
