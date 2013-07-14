@@ -1,6 +1,6 @@
 # Ottawa Dog Blog Privacy Policy and Terms of Service
 
-This is a legally binding contract between you and Ottawa Dog Blog. Please make sure you read it, because it is important. We’ve tried to make it as clear as possible, but we welcome your feedback to [mailto:support@ottawadogblog.ca](support@ottawadogblog.ca) if you have suggestions or questions.
+This is a legally binding contract between you and Ottawa Dog Blog. Please make sure you read it, because it is important. We’ve tried to make it as clear as possible, but we welcome your feedback to [support@ottawadogblog.ca](mailto:support@ottawadogblog.ca) if you have suggestions or questions.
 
 ## Definitions
 
@@ -8,7 +8,7 @@ We’re going to use some shorthand to make this easier to read. When we say “
 
 ## Accepting these terms
 
-Please read these terms before using the site. If you do not agree to these terms, you may not use the site. If we make material changes to these terms, we’ll let you know either through the site or via email (at the email address you provide). If you do not agree to those changes, you may send a request to cancel your account to [support@ottawadogblog.ca](support@ottawadogblog.ca). If we do not hear from you within ten days, the revised terms will apply to you.
+Please read these terms before using the site. If you do not agree to these terms, you may not use the site. If we make material changes to these terms, we’ll let you know either through the site or via email (at the email address you provide). If you do not agree to those changes, you may send a request to cancel your account to [support@ottawadogblog.ca](mailto:support@ottawadogblog.ca). If we do not hear from you within ten days, the revised terms will apply to you.
 
 ## Privacy policy
 
@@ -87,7 +87,7 @@ If it appears you have violated any of these rules, we may, in our sole discreti
 
 ## Cancelling your account
 
-You can cancel your account at any time by sending an email to [support@ottawadogblog.ca](support@ottawadogblog.ca). If you like, you may export your documents prior to cancelling your account. Upon cancelling your account, your files will be marked for deletion in sixty days, and will be deleted upon expiration of that sixty-day period.
+You can cancel your account at any time by sending an email to [support@ottawadogblog.ca](mailto:support@ottawadogblog.ca). If you like, you may export your documents prior to cancelling your account. Upon cancelling your account, your files will be marked for deletion in sixty days, and will be deleted upon expiration of that sixty-day period.
 
 ## Disclaimer of warranties
 
@@ -111,7 +111,7 @@ These terms shall be governed by and construed in accordance with the laws of th
 
 ## Contact information
 
-If you have any comments, questions, ideas, or criticism of this document you may contact us via e-mail at [support@ottawadogblog.ca](support@ottawadogblog.ca).
+If you have any comments, questions, ideas, or criticism of this document you may contact us via e-mail at [support@ottawadogblog.ca](mailto:support@ottawadogblog.ca).
 
 Or better yet, you can contribute a “commit” on [GitHub](https://github.com/ottawadogblog/legal)!
 
