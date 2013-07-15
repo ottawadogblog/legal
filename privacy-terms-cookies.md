@@ -53,6 +53,8 @@ The interactions and information collected by these external applications are su
 
 - **MailChimp email address management service:** email address; (The Rocket Science Group Inc., USA; [Privacy Policy](http://mailchimp.com/legal/privacy/))
 
+- - **PayPal Standard Checkout:** email address, name, credit card; (PayPal Inc., USA; [Privacy Policy](https://www.paypal.com/ca/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside))
+
 ## Copyright and intellectual property
 
 We own our stuff; you own yours.
