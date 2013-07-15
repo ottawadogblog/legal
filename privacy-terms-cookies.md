@@ -15,7 +15,6 @@ Please read these terms before using the site. If you do not agree to these term
 We collect information when visiting the site. *No personal information from you will ever be sold, rented, or shared with third-parties.*
 
 - We collect anonymous usage data and store cookies to improve your experience on the site and help diagnose problems with the site.
-
 - We will only collect your personal information when you comment on blog posts, sign-up to get a business or rescue listing, or join our mailing list.
 
 ### Cookies
@@ -42,18 +41,12 @@ The interactions and information collected by these external applications are su
 #### External services used
 
 - **Facebook Like button and social widgets:** cookies and usage data; (Facebook Inc., USA; [Privacy Policy](http://www.facebook.com/privacy/explanation.php))
-
 - **Twitter Tweet button and social widgets:** cookies and usage data; (Twitter Inc., USA; [Privacy Policy](http://twitter.com/privacy))
-
 - **Google+ +1 button and social widgets:** cookies and usage data; (Google Inc., USA; [Privacy Policy](http://www.google.com/intl/en/policies/privacy/))
-
 - **Pinterest “Pin it” button and social widgets:** cookies and usage data; (Pinterest Inc., USA; [Privacy Policy](http://about.pinterest.com/privacy/))
-
 - **Google Analytics:** cookies and usage data; (Google Inc., USA; [Privacy Policy](http://www.google.com/intl/en/policies/privacy/))
-
 - **MailChimp email address management service:** email address; (The Rocket Science Group Inc., USA; [Privacy Policy](http://mailchimp.com/legal/privacy/))
-
-- - **PayPal Standard Checkout:** email address, name, credit card; (PayPal Inc., USA; [Privacy Policy](https://www.paypal.com/ca/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside))
+- **PayPal Standard Checkout:** email address, name, credit card; (PayPal Inc., USA; [Privacy Policy](https://www.paypal.com/ca/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside))
 
 ## Copyright and intellectual property
 
